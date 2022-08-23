@@ -1,0 +1,28 @@
+D:\04. Trial\2010\AppDateTime\AppDateTime\bin\Debug\AppDateTime.exe.config
+D:\04. Trial\2010\AppDateTime\AppDateTime\bin\Debug\AppDateTime.exe
+D:\04. Trial\2010\AppDateTime\AppDateTime\bin\Debug\AppDateTime.pdb
+D:\04. Trial\2010\AppDateTime\AppDateTime\obj\x86\Debug\AppDateTime.Properties.Resources.resources
+D:\04. Trial\2010\AppDateTime\AppDateTime\obj\x86\Debug\AppDateTime.csproj.GenerateResource.Cache
+D:\04. Trial\2010\AppDateTime\AppDateTime\obj\x86\Debug\AppDateTime.exe
+D:\04. Trial\2010\AppDateTime\AppDateTime\obj\x86\Debug\AppDateTime.pdb
+D:\04. Trial\2010\AppDateTime\AppDateTime\obj\x86\Debug\AppDateTime.FrmDateTimeCount.resources
+C:\Users\UCM\Downloads\AppDateTime\AppDateTime\bin\Debug\AppDateTime.exe.config
+C:\Users\UCM\Downloads\AppDateTime\AppDateTime\bin\Debug\AppDateTime.exe
+C:\Users\UCM\Downloads\AppDateTime\AppDateTime\bin\Debug\AppDateTime.pdb
+C:\Users\UCM\Downloads\AppDateTime\AppDateTime\obj\x86\Debug\AppDateTime.csprojAssemblyReference.cache
+C:\Users\UCM\Downloads\AppDateTime\AppDateTime\obj\x86\Debug\AppDateTime.FrmDateTimeCount.resources
+C:\Users\UCM\Downloads\AppDateTime\AppDateTime\obj\x86\Debug\AppDateTime.Properties.Resources.resources
+C:\Users\UCM\Downloads\AppDateTime\AppDateTime\obj\x86\Debug\AppDateTime.csproj.GenerateResource.cache
+C:\Users\UCM\Downloads\AppDateTime\AppDateTime\obj\x86\Debug\AppDateTime.csproj.CoreCompileInputs.cache
+C:\Users\UCM\Downloads\AppDateTime\AppDateTime\obj\x86\Debug\AppDateTime.exe
+C:\Users\UCM\Downloads\AppDateTime\AppDateTime\obj\x86\Debug\AppDateTime.pdb
+C:\Users\UCM\Downloads\Materi Kuliah M.Kom\03 Perancangan dan Analisis Algoritma\Pertemuan 2\Tugas\AppDateTime\AppDateTime\bin\Debug\AppDateTime.exe.config
+C:\Users\UCM\Downloads\Materi Kuliah M.Kom\03 Perancangan dan Analisis Algoritma\Pertemuan 2\Tugas\AppDateTime\AppDateTime\bin\Debug\AppDateTime.exe
+C:\Users\UCM\Downloads\Materi Kuliah M.Kom\03 Perancangan dan Analisis Algoritma\Pertemuan 2\Tugas\AppDateTime\AppDateTime\bin\Debug\AppDateTime.pdb
+C:\Users\UCM\Downloads\Materi Kuliah M.Kom\03 Perancangan dan Analisis Algoritma\Pertemuan 2\Tugas\AppDateTime\AppDateTime\obj\x86\Debug\AppDateTime.csprojAssemblyReference.cache
+C:\Users\UCM\Downloads\Materi Kuliah M.Kom\03 Perancangan dan Analisis Algoritma\Pertemuan 2\Tugas\AppDateTime\AppDateTime\obj\x86\Debug\AppDateTime.FrmDateTimeCount.resources
+C:\Users\UCM\Downloads\Materi Kuliah M.Kom\03 Perancangan dan Analisis Algoritma\Pertemuan 2\Tugas\AppDateTime\AppDateTime\obj\x86\Debug\AppDateTime.Properties.Resources.resources
+C:\Users\UCM\Downloads\Materi Kuliah M.Kom\03 Perancangan dan Analisis Algoritma\Pertemuan 2\Tugas\AppDateTime\AppDateTime\obj\x86\Debug\AppDateTime.csproj.GenerateResource.cache
+C:\Users\UCM\Downloads\Materi Kuliah M.Kom\03 Perancangan dan Analisis Algoritma\Pertemuan 2\Tugas\AppDateTime\AppDateTime\obj\x86\Debug\AppDateTime.csproj.CoreCompileInputs.cache
+C:\Users\UCM\Downloads\Materi Kuliah M.Kom\03 Perancangan dan Analisis Algoritma\Pertemuan 2\Tugas\AppDateTime\AppDateTime\obj\x86\Debug\AppDateTime.exe
+C:\Users\UCM\Downloads\Materi Kuliah M.Kom\03 Perancangan dan Analisis Algoritma\Pertemuan 2\Tugas\AppDateTime\AppDateTime\obj\x86\Debug\AppDateTime.pdb
